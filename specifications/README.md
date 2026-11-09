@@ -38,6 +38,7 @@ class coexist (`llm-inference-batched`, `llm-inference-self-hosted`).
 | Specification | Description |
 |---|---|
 | [sci-for-ai](./sci-for-ai/) | [SCI for AI](https://sci-for-ai.greensoftware.foundation/) — extends SCI for AI-specific workload considerations |
+| [wdpc](./wdpc/) | [Workload Dynamic Power and Cooling](https://github.com/Green-Software-Foundation/Workload-Dynamic-Power-and-Cooling) — data distribution between workloads, power and cooling |
 
 Other GSF specifications will be added as implementations become
 available.
